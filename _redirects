@@ -1,7 +1,0 @@
-# Redirect domain aliases to primary domain
-https://www.free2betherapy.co.uk/* https://www.free2betherapy.com/:splat 301!
-https://free2betherapy.co.uk/* https://www.free2betherapy.com/:splat 301!
-
-# Redirect default Netlify subdomain to primary domain
-https://free2betherapy.netlify.com/* https://www.free2betherapy.com/:splat 301!
-
