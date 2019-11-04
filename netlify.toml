@@ -6,10 +6,10 @@
   NODE_VERSION = "12.4.0"
   YARN_VERSION = "1.9.4"
   YARN_FLAGS = "--no-ignore-optional"
-#[[headers]]
-#  for = "/static/*"
-#  [headers.values]
-#    Cache-Control = "public, max-age=250000"
+[[headers]]
+  for = "/static/*"
+  [headers.values]
+    Cache-Control = "public, max-age=250000"
 [[redirects]]
   from = "https://www.free2betherapy.co.uk/*"
   to = "https://www.free2betherapy.com/:splat"
