@@ -1,19 +1,13 @@
 ---
-templateKey: 'about-page'
-path: /about
-title: About our values
+templateKey: about-page
+title: About me
 ---
-### Shade-grown coffee
-Coffee is a small tree or shrub that grows in the forest understory in its wild form, and traditionally was grown commercially under other trees that provided shade. The forest-like structure of shade coffee farms provides habitat for a great number of migratory and resident species.
+### About me
 
-### Single origin
-Single-origin coffee is coffee grown within a single known geographic origin. Sometimes, this is a single farm or a specific collection of beans from a single country. The name of the coffee is then usually the place it was grown to whatever degree available.
+Hello, my name is Genene and I am a qualified and accredited Play Therapist (MBAPT). 
 
-### Sustainable farming
-Sustainable agriculture is farming in sustainable ways based on an understanding of ecosystem services, the study of relationships between organisms and their environment. What grows where and how it is grown are a matter of choice and careful consideration for nature and communities.
+I have been working within the mental health field for over seven years, providing therapeutic workshops, crisis support and recovery work within both in-patient and community settings. I have also gained years of experience working within nursery and educational environments, delivering specialist support to children with both mental health and special educational needs. 
 
-### Direct sourcing
-Direct trade is a form of sourcing practiced by some coffee roasters. Advocates of direct trade practices promote direct communication and price negotiation between buyer and farmer, along with systems that encourage and incentivize quality.
+As a Play Therapist, I have conducted short-term and long-term therapeutic interventions in school and charity settings, supporting children with a variety of complex needs. I am very passionate about early intervention and working preventively to ensure the most beneficial and enduring outcomes for children and young people by supporting them to thrive.
 
-### Reinvest profits
-We want to truly empower the communities that bring amazing coffee to you. That’s why we reinvest 20% of our profits into farms, local businesses and schools everywhere our coffee is grown. You can see the communities grow and learn more about coffee farming on our blog.
+I am trained under a humanistic, person-centred model of therapy which recognises intuitively the key role of play in healthy development and how it can be used to support children’s emotional and behavioural needs. I have also received extensive training in subjects such as child development, attachment and infant observation and gained specialised knowledge surrounding key issues affecting children and young people, such as abuse, bereavement, learning difficulties, family break down and bullying. Through my mental health work, I have also participated in further professional development to expand my clinical knowledge around domestic abuse and violence and suicidality and self-harm.
