@@ -54,7 +54,7 @@ main:
     gain mastery over what may have happened to them.
   image1:
     alt: Supporting each other
-    image: /img/wooden-blocks-443728_1920.jpg
+    image: /img/jason-leung-m55jca9wog0-unsplash.jpg
   image2:
     alt: Toys help self-expression
     image: /img/pexels-photo-1971084.jpeg
