@@ -8,39 +8,27 @@ description: >-
   feelings at their own pace and in the safety of the therapeutic relationship.
   They are provided the freedom to play in a self-directed manner, to express
   themselves and make sense of challenging life experiences using the toys and
-  various creative media available, aided by the specially trained therapist. 
-  Play therapy recognises intuitively the key role of play in healthy
-  development. Through play, children can communicate complex ideas and emotions
-  which would otherwise be impossible due to lack of verbal skills and cognitive
-  ability. Play therapy, therefore, responds to the unique developmental needs
-  of children by using their natural medium of expression to help them
-  externalise internal struggles and gain a better understanding of what’s going
-  on inside them.  Parents and carers are integral to the therapeutic process.
-  With their commitment and support, children will be in the best place to work
-  through any traumatic experiences or emotional, social and behavioural
-  challenges.
+  various creative media available, aided by the specially trained therapist.  
 intro:
   blurbs:
     - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
+      text: >-
+        Play therapy recognises intuitively the key role of play in healthy
+        development. Through play, children can communicate complex ideas and
+        emotions which would otherwise be impossible due to lack of verbal
+        skills and cognitive ability. 
     - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
+      text: >-
+        Play therapy, therefore, responds to the unique developmental needs of
+        children by using their natural medium of expression to help them
+        externalise internal struggles and gain a better understanding of what’s
+        going on inside them.  
     - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
+      text: >-
+        Parents and carers are integral to the therapeutic process. With their
+        commitment and support, children will be in the best place to work
+        through any traumatic experiences or emotional, social and behavioural
+        challenges.
     - image: /img/meeting-space.png
       text: >
         We believe that good coffee has the power to bring people together.
