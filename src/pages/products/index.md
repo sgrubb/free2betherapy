@@ -65,14 +65,14 @@ main:
     choices and explore personal narratives then allows them to take control and
     gain mastery over what may have happened to them.
   image1:
-    alt: A close-up of a paper filter filled with ground coffee
+    alt: Supporting each other
     image: /img/wooden-blocks-443728_1920.jpg
   image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
+    alt: Toys help self-expression
+    image: /img/pexels-photo-1971084.jpeg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
+    image: /img/ben-wicks-idctsz-inhi-unsplash.jpg
 testimonials:
   - author: Elisabeth Kaurismäki
     quote: >-
