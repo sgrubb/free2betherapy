@@ -1,14 +1,24 @@
 ---
-templateKey: 'product-page'
-path: /products
-title: Our Coffee
-image: /img/jumbotron.jpg
-heading: Great coffee with a conscience
+templateKey: product-page
+title: Play Therapy
+image: /img/animals-in-line.jpg
+heading: What is Play Therapy?
 description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  In play therapy, children are supported to explore and process difficult
+  feelings at their own pace and in the safety of the therapeutic relationship.
+  They are provided the freedom to play in a self-directed manner, to express
+  themselves and make sense of challenging life experiences using the toys and
+  various creative media available, aided by the specially trained therapist. 
+  Play therapy recognises intuitively the key role of play in healthy
+  development. Through play, children can communicate complex ideas and emotions
+  which would otherwise be impossible due to lack of verbal skills and cognitive
+  ability. Play therapy, therefore, responds to the unique developmental needs
+  of children by using their natural medium of expression to help them
+  externalise internal struggles and gain a better understanding of what’s going
+  on inside them.  Parents and carers are integral to the therapeutic process.
+  With their commitment and support, children will be in the best place to work
+  through any traumatic experiences or emotional, social and behavioural
+  challenges.
 intro:
   blurbs:
     - image: /img/coffee.png
@@ -38,22 +48,25 @@ intro:
         space where you can hang out with fellow coffee lovers and learn about
         coffee making techniques. All of the artwork on display there is for
         sale. The full price you pay goes to the artist.
-  heading: What we offer
+  heading: Am I making the right choice?
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
     java’s origin and support the farmers that grew it. We take coffee
     production, roasting and brewing seriously and we’re glad to pass that
     knowledge to anyone. This is an edit via identity...
 main:
-  heading: Great coffee with no compromises
+  heading: ' How can Play Therapy help?'
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Accessing emotional support from an independent, non-judgemental and
+    empathic therapist can facilitate self-expression, communication, positive
+    relationships and emotional growth. Using the toys and play materials
+    provided enables children to use symbols and metaphor to create safe
+    psychological distance from what is troubling them. Freedom to play, make
+    choices and explore personal narratives then allows them to take control and
+    gain mastery over what may have happened to them.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
+    image: /img/wooden-blocks-443728_1920.jpg
   image2:
     alt: A green cup of a coffee on a wooden table
     image: /img/products-grid2.jpg
@@ -71,11 +84,12 @@ testimonials:
       stance on empowering farmers and transparency.
 full_image: /img/products-full-width.jpg
 pricing:
-  heading: Monthly subscriptions
+  heading: Who can Play Therapy help?
   description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
+    Play therapy can help children who have a variety of presenting difficulties
+    such as: Anxiety Bereavement Challenging behaviour Communication struggles 
+    Disability Family breakdown Illness/ medical concerns  Low confidence
+    Neglect  School-based problems Special educational needs  Trauma
   plans:
     - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
       items:
@@ -99,3 +113,4 @@ pricing:
       plan: Custom
       price: '??'
 ---
+
